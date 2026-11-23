@@ -1,2 +1,2 @@
 # .github
-Octavus organization profile and community health files
+Octavius organization profile and community health files
