@@ -1,61 +1,25 @@
-<img width="1074" height="357" alt="Screenshot 2026-01-27 at 9 37 39 PM" src="https://github.com/user-attachments/assets/b2f69645-10e0-4e15-b665-0a39d23877d6" />
+<img width="1200" height="630" alt="Octavius - Hire AI Employees" src="https://octavius.ai/opengraph-image" />
 
-## About Octavus AI
+## About Octavius
 
-Define your agent in a protocol. Implement your tools in your backend. We handle everything in between.
+Octavius gives your team AI employees that do real work - each with its own computer, memory, tools, and schedule. Hand off work in Slack, over email, or by text, and watch it move from brief to done.
 
-[Website](https://octavus.ai) • [Documentation](https://octavus.ai/docs)
+[Website](https://octavius.ai) • [Browse agents](https://octavius.ai/agents/discover) • [Pricing](https://octavius.ai/pricing) • [Help center](https://octavius.ai/support)
 
----
+## Why Octavius Agents
 
-## 🚀 Get Started
+- **Its own computer** - An agent opens a browser, clicks, types, downloads files, and runs commands on a machine of its own. Watch it live, take control when you want, and hand it back.
+- **A real teammate** - Each agent gets its own mailbox and phone line, keeps its own logins in a private vault, and joins Slack as itself.
+- **It remembers** - The day's notes consolidate into long-term memory every night, and the shared Handbook teaches every agent what the whole team should know.
+- **Runs on its own** - Recurring work runs on schedule. Between runs, an agent watches its inbox and Slack and wakes up for what matters.
+- **Ready on day one** - Hire a pre-built role (BDR, Support Engineer, Executive Assistant, Recruiting Sourcer, and more), or shape a generalist into the role you need.
+- **Your rules, on the record** - Handbook policies apply to every agent, and every step, screenshot, and tool call is kept in the thread.
+- **Pay for hours worked** - Agents bill only while they work, with model tokens at provider price.
 
-**Client:**
+## Work with your agents from code
 
-```bash
-npm install @octavus/react
-```
+- [Workforce Agents API](https://octavius.ai/support/developers/workforce-agents-api) - send an agent work and read its threads over HTTP.
+- [Agent CLI](https://octavius.ai/support/developers/agent-cli) - run an agent on a Linux machine you control, as its computer.
+- [MCP server](https://octavius.ai/support/developers/mcp-server) - work with your agents from Cursor or Claude Code.
 
-**Server:**
-
-```bash
-npm install @octavus/server-sdk
-```
-
-**CLI (optional):**
-
-```bash
-npm install -D @octavus/cli
-```
-
-## 📦 Packages
-
-| Package | Description |
-|---------|-------------|
-| [@octavus/react](https://www.npmjs.com/package/@octavus/react) | React hooks and components |
-| [@octavus/server-sdk](https://www.npmjs.com/package/@octavus/server-sdk) | Server SDK for backend integration |
-| [@octavus/client-sdk](https://www.npmjs.com/package/@octavus/client-sdk) | Framework-agnostic client SDK |
-| [@octavus/cli](https://www.npmjs.com/package/@octavus/cli) | CLI for agent management |
-
-Source: [agent-sdk](https://github.com/octavus-ai/agent-sdk)
-
-## 📚 Examples
-
-| Project | Description |
-|---------|-------------|
-| [example-nextjs](https://github.com/octavus-ai/example-nextjs) | Next.js integration example |
-| [example-express-websocket](https://github.com/octavus-ai/example-express-websocket) | Express + WebSocket example |
-| [octavus-browser-use-starter](https://github.com/octavus-ai/octavus-browser-use-starter) | Browser automation starter |
-
-## ✨ Why Octavus?
-
-- **Protocol-Based Definition** — Define your agent's personality, tools, and workflows in clean YAML
-- **Tools on Your Infrastructure** — Your tools, your data, your control. Octavus orchestrates while your backend executes
-- **Model Flexibility** — One protocol, any model. Switch between Claude, GPT, or other models without rewriting your agent
-- **Production-Ready Sessions** — Stateful conversations out of the box. Sessions restore on page refresh with full history
-- **Agent Skills** — Extend your agent with knowledge packages following the Agent Skills open standard
-- **Real-Time Streaming** — Built-in SSE streaming with Vercel AI SDK compatibility
-     
----
-
-[**Get Started →**](https://octavus.ai)
+[**Hire your first agent →**](https://octavius.ai/agents/discover)
